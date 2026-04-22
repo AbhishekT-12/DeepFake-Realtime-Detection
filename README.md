@@ -1,8 +1,4 @@
-Here’s a **professional README.md** for your Deepfake Detection project — styled similar to your previous one but tailored for AI/ML 👇
 
----
-
-```markdown
 # 🧠 DeepFake Detection System
 
 An AI-powered **Deepfake Detection System** that identifies manipulated images/videos using Machine Learning and Computer Vision techniques to ensure digital authenticity.
