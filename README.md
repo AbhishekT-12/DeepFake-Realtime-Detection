@@ -129,29 +129,3 @@ GitHub: [https://github.com/AbhishekT-12](https://github.com/AbhishekT-12)
 
 ```
 
----
-
-# 🚀 What to do now
-1. Go to your repo → `deepfakedetection`  
-2. Open `README.md`  
-3. Replace content with this  
-4. Commit changes  
-
----
-
-# 💡 Pro Tip
-For AI projects:
-👉 Add **model accuracy screenshot + confusion matrix**  
-👉 It makes your project look 🔥 for recruiters  
-
----
-
-If you want next:
-✅ I can add **badges (accuracy, Python version, etc.)**  
-✅ Or make this README look like a **top GitHub trending project**  
-
-Just tell me 👍
-::contentReference[oaicite:2]{index=2}
-```
-
-[1]: https://deepfake.endeavour.cs.vt.edu/about?utm_source=chatgpt.com "Deepfake Detection"
